@@ -1,0 +1,10 @@
+experiment,accuracy,macro_f1,n_components_used
+Random Forest - Original Features,0.7473,0.7477,original
+Logistic Regression - Original Features,0.7327,0.7327,original
+Logistic Regression - PCA (95% variance),0.7287,0.7284,8
+KNN - Original Features,0.7213,0.7213,original
+KNN - PCA (95% variance),0.7193,0.7184,8
+Random Forest - PCA (95% variance),0.7107,0.7098,8
+Logistic Regression - PCA (2 components),0.498,0.4948,2
+Random Forest - PCA (2 components),0.474,0.4746,2
+KNN - PCA (2 components),0.4667,0.4628,2
